@@ -1,5 +1,3 @@
-Вот предложение для Readme файла в формате Markdown:
-
 # Socket-Server
 
 ## Описание 
